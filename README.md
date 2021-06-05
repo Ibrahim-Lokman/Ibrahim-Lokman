@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ibrahim-Lokman
-- 👀 I’m interested in Blockchain, AI , Ml and Networking
+- 👀 I’m interested in Blockchain Dapp, AI , Ml and Networking
 - 🌱 I’m currently learning Wed Development
 - 💞️ I’m looking to collaborate on Web Project
 - 📫 How to reach me ibrahimlokman.bd@gmail.com
